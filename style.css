@@ -23,7 +23,7 @@ span{
         filter: hue-rotate(0);
     }
     100%{
-        transform: translate(-50%, -1400%);
+        transform: translate(-50%, -1600%);
         opacity: 0;
         filter: hue-rotate(720deg);
     }
